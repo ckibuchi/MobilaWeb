@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Mobila:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Mobila.war">
+      <element id="artifact" artifact-name="Mobila:war exploded" />
+    </root>
+  </artifact>
+</component>
